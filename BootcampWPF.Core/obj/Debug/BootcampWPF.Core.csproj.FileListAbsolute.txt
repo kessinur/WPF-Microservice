@@ -1,0 +1,6 @@
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.Core\bin\Debug\BootcampWPF.Core.exe.config
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.Core\bin\Debug\BootcampWPF.Core.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.Core\bin\Debug\BootcampWPF.Core.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.Core\obj\Debug\BootcampWPF.Core.csprojResolveAssemblyReference.cache
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.Core\obj\Debug\BootcampWPF.Core.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.Core\obj\Debug\BootcampWPF.Core.pdb

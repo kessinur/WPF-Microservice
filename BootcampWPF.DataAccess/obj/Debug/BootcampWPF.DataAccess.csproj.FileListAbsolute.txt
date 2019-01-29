@@ -1,0 +1,9 @@
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.DataAccess\bin\Debug\BootcampWPF.DataAccess.exe.config
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.DataAccess\bin\Debug\BootcampWPF.DataAccess.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.DataAccess\bin\Debug\BootcampWPF.DataAccess.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.DataAccess\obj\Debug\BootcampWPF.DataAccess.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.DataAccess\obj\Debug\BootcampWPF.DataAccess.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\BootcampWPF\BootcampWPF.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
